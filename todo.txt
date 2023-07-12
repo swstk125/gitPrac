@@ -1,0 +1,7 @@
+Create repository 
+-> Create a branch from master 
+-> Write code 
+-> Commit changes 
+-> Create pull request 
+-> Merge the pull request to the master branch 
+-> Profit
